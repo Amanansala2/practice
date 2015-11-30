@@ -1,0 +1,76 @@
+./backup/practice/img/Step 5f(v0.0.1).PNG
+./backup/practice/img/Step1.PNG
+./backup/practice/img/Step11a.PNG
+./backup/practice/img/Step11d.PNG
+./backup/practice/img/Step11e.PNG
+./backup/practice/img/Step2.PNG
+./backup/practice/img/Step3e.PNG
+./backup/practice/img/Step3f.PNG
+./backup/practice/img/Step4c.PNG
+./backup/practice/img/Step4f.PNG
+./backup/practice/img/Step4g.PNG
+./backup/practice/img/Step5f(master).PNG
+./backup/practice/img/Step5g.PNG
+./backup/practice/img/Step6b.PNG
+./backup/practice/img/Step6d.PNG
+./backup/practice/img/Step7d.PNG
+./backup/practice/img/Step7e.PNG
+./backup/practice/img/Step8.PNG
+./backup/practice/img/Step9.PNG
+./git/practice/img/Step 5f(v0.0.1).PNG
+./git/practice/img/Step1.PNG
+./git/practice/img/Step11a.PNG
+./git/practice/img/Step11d.PNG
+./git/practice/img/Step11e.PNG
+./git/practice/img/Step2.PNG
+./git/practice/img/Step3e.PNG
+./git/practice/img/Step3f.PNG
+./git/practice/img/Step4c.PNG
+./git/practice/img/Step4f.PNG
+./git/practice/img/Step4g.PNG
+./git/practice/img/Step5f(master).PNG
+./git/practice/img/Step5g.PNG
+./git/practice/img/Step6b.PNG
+./git/practice/img/Step6d.PNG
+./git/practice/img/Step7d.PNG
+./git/practice/img/Step7e.PNG
+./git/practice/img/Step8.PNG
+./git/practice/img/Step9.PNG
+./Step 5f(v0.0.1).PNG
+./Step1.PNG
+./Step11a.PNG
+./Step11d.PNG
+./Step11e.PNG
+./Step2.PNG
+./Step3e.PNG
+./Step3f.PNG
+./Step4c.PNG
+./Step4f.PNG
+./Step4g.PNG
+./Step5f(master).PNG
+./Step5g.PNG
+./Step6b.PNG
+./Step6d.PNG
+./Step7d.PNG
+./Step7e.PNG
+./Step8.PNG
+./Step9.PNG
+./Take Home/Step 5f(v0.0.1).PNG
+./Take Home/Step1.PNG
+./Take Home/Step11a.PNG
+./Take Home/Step11d.PNG
+./Take Home/Step11e.PNG
+./Take Home/Step2.PNG
+./Take Home/Step3e.PNG
+./Take Home/Step3f.PNG
+./Take Home/Step4c.PNG
+./Take Home/Step4f.PNG
+./Take Home/Step4g.PNG
+./Take Home/Step5f(master).PNG
+./Take Home/Step5g.PNG
+./Take Home/Step6b.PNG
+./Take Home/Step6d.PNG
+./Take Home/Step7d.PNG
+./Take Home/Step7e.PNG
+./Take Home/Step8.PNG
+./Take Home/Step9.PNG
